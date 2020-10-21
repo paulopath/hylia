@@ -1,6 +1,7 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thank you
+permalink: /thank-you/index.html
 ---
+Your request is now pending review by a consultant who may respond between 24 - 48 hours.
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Cheers!
